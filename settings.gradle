@@ -1,0 +1,2 @@
+rootProject.name = "InputDeviceReader"
+include ':app'
